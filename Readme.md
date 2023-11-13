@@ -2,7 +2,7 @@
 
 Coding Session «Build, Ship, Run»
 https://www.youtube.com/watch?v=ItO6BcEC45g
-**$$
+
 00:00 Вступ
 00:35 Підготовка до виконання
 01:28 Формулювання завдання
@@ -25,4 +25,3 @@ https://www.youtube.com/watch?v=ItO6BcEC45g
 12:25 Розширюємо проєкт
 13:05 Zero Downtime Deployment
 13:55 Підсумки роботи
-$$**
